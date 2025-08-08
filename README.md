@@ -9,7 +9,7 @@ The project is built with a variety of tools and technologies, including:
 
     Frontend: React, Vite, ESLint, Axios, React Hook Form
 
-    Backend: Java
+    Backend: Java Spring Boot
 
     Other: JSON, Markdown, npm, Maven, XML, Python
 
